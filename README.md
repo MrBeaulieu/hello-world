@@ -1,2 +1,4 @@
 # hello-world
-My first project
+
+Hello everyone, my name is Olivier Beaulieu.
+Today, I'm gonna talk about my passions.
